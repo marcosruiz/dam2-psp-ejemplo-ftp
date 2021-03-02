@@ -3,7 +3,10 @@ import org.apache.commons.net.ftp.FTPFile;
 
 import java.io.IOException;
 
-public class App {
+/**
+ * Clase de ejemplo donde hacemos login en un servidor FTP local con mruiz mruiz.
+ */
+public class AppFtp {
 
   static final int PORT = 14147;
   static final String HOST = "localhost";
